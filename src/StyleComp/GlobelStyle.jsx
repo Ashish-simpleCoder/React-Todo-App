@@ -14,11 +14,8 @@ html{
 }
 body{
     height:100vh;
-    width:90vw;
-    margin:0 auto;
-    /* background-size:cover;
-    background-position:center center;
-    background-repeat:no-repeat; */
+    /* width:90vw; */
+    /* margin:0 auto; */
 }
 
 :root{
