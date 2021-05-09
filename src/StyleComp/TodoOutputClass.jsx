@@ -1,16 +1,14 @@
 import styled from 'styled-components';
 
 const TodoOutputClass = styled.section`
-    width: clamp(40rem, 60rem, 60rem);
+    width: clamp(40rem, 40vw, 60rem);
     margin: 0 auto;
     & div {
         /* border: 1px solid red; */
         display: flex;
         transition: 0.25s;
         color: var(--main-h1-clr);
-        max-width:60rem;
         margin: 1rem;
-        /* min-height:3rem; */
         &:hover {
             transform: scale(1.1);
         }
@@ -24,13 +22,9 @@ const TodoOutputClass = styled.section`
             background: var(--todo-list-bg-clr);
             border-radius: 0.3rem;
             height: clamp(3rem, 3.8rem, 4vw);
-            /* min-height:3rem; */
-            /* width:100%; */
             display: flex;
             align-items: center;
             justify-content: center;
-            /* flex-wrap:wrap; */
-            word-wrap:break-word;
             color: var(--main-h1-clr);
             font-weight: normal;
             font-size: clamp(1.8rem, 2rem, 3vw);
