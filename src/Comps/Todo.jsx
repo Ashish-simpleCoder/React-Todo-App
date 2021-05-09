@@ -63,6 +63,7 @@ const Todo = () => {
                         value={state.todo.title}
                         autoComplete="off"
                         placeholder="make a new todo... ✏️"
+                        maxLength='30'
                         onChange={(e) =>
                             dispatch({
                                 type: 'handleChange',

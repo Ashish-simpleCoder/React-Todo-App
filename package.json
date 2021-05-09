@@ -1,6 +1,7 @@
 {
     "name": "0_base_project",
     "version": "0.1.0",
+    "homepage": "https://ashish-simplecoder.github.io/React-Todo-App/",
     "private": true,
     "dependencies": {
         "@material-ui/core": "^4.11.3",
