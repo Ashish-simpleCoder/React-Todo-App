@@ -19,7 +19,7 @@ const TodoGeneratorClass = styled.section`
         text-align: center;
         border-radius: 0.3rem;
         padding: 0.2rem 0;
-        height: clamp(4rem, 4.5rem, 4vw);
+        height: clamp(5rem, 5rem, 4vw);
         transition: 0.25s;
         &:focus-within {
             background: var(--focused-input-bg-clr);
