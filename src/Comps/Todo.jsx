@@ -33,7 +33,11 @@ const Todo = () => {
         <>
             <Header />
             <main>
-                <TodoGenerator todo={state.todo} dispatch={dispatch} todo_arr={state.todo_arr}/>
+                <TodoGenerator
+                    todo={state.todo}
+                    dispatch={dispatch}
+                    todo_arr={state.todo_arr}
+                />
                 <TodoOutput todo_arr={state.todo_arr} dispatch={dispatch} />
             </main>
         </>

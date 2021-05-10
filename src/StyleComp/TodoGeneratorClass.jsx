@@ -8,7 +8,7 @@ const TodoGeneratorClass = styled.section`
     justify-content: center;
 
     & label {
-        visibility:hidden;
+        visibility: hidden;
     }
     & input {
         background: var(--input-bg-clr);
