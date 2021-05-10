@@ -12,11 +12,6 @@ html{
     font-size:62.5%;
     font-family:sans-serif;
 }
-body{
-    height:100vh;
-    /* width:90vw; */
-    /* margin:0 auto; */
-}
 
 :root{
     --main-h1-clr:rgb(12, 11, 11);
@@ -29,10 +24,16 @@ body{
     --create-btn-hover-bg-clr:rgb(255, 255, 255);
 
     /* --todo-list-bg-clr:rgb(243, 83, 34); */
-    --todo-list-bg-clr:rgb(20, 200, 200);
+    --todo-list-bg-clr:rgb(62, 203, 238);
     --delete-btn-clr:rgb(250, 40, 40);
     --delete-btn-hover-clr:rgb(245, 19, 19);
 }
+header,main{
+    width:90vw;
+    max-width:150rem;
+    margin:0 auto;
+}
+
 h1{
     text-align:left;
     display:inline-block;
@@ -53,6 +54,7 @@ h1{
         left:10%;
     }
 }
+
 .active{
     text-decoration:line-through;
 }

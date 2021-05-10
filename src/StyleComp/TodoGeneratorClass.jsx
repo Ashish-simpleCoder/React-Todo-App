@@ -36,7 +36,7 @@ const TodoGeneratorClass = styled.section`
             font-size: clamp(2rem, 3rem, 4vw);
         }
         &:hover {
-            transform: scale(1.15);
+            transform: scale(1.1);
             box-shadow: 0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.2);
             color: var(--create-btn-bg-clr);
             background: var(--create-btn-hover-bg-clr);

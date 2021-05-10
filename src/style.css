@@ -1,5 +1,31 @@
 body {
-    background: url('./StyleComp/b.jpg');
-    background-position: center;
+    background: url('./StyleComp/1366_b.jpg');
+    background-position: center center;
     background-repeat: no-repeat;
+}
+@media screen and (max-width: 3000px) {
+    body {
+        background: url('./StyleComp/b.jpg');
+
+    }
+}
+@media screen and (max-width: 1920px) {
+    body {
+        background: url('./StyleComp/1920_b.jpg');
+
+    }
+}
+@media screen and (max-width: 1366px) {
+    body {
+        background: url('./StyleComp/1366_b.jpg');
+
+    }
+}
+@media screen and (max-width: 650px) {
+    body {
+        background: url('./StyleComp/650_b.jpg');
+    }
+    button{
+        transform:scale(0.8);
+    }
 }
