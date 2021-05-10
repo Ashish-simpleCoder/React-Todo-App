@@ -25,7 +25,4 @@ body {
     body {
         background: url('./StyleComp/650_b.jpg');
     }
-    button{
-        transform:scale(0.8);
-    }
 }
