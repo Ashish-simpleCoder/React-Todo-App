@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,KACI,2DAAoC,CACpC,uBAA2B,CAC3B,2BACJ","file":"main.e05a7ec1.chunk.css","sourcesContent":["body {\r\n    background: url('./StyleComp/b.jpg');\r\n    background-position: center;\r\n    background-repeat: no-repeat;\r\n}\r\n"]}
