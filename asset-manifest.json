@@ -3,14 +3,14 @@
     "main.css": "/React-Todo-App/static/css/main.40e941ba.chunk.css",
     "main.js": "/React-Todo-App/static/js/main.9ca306d9.chunk.js",
     "main.js.map": "/React-Todo-App/static/js/main.9ca306d9.chunk.js.map",
-    "runtime-main.js": "/React-Todo-App/static/js/runtime-main.9cec07b9.js",
-    "runtime-main.js.map": "/React-Todo-App/static/js/runtime-main.9cec07b9.js.map",
+    "runtime-main.js": "/React-Todo-App/static/js/runtime-main.f976cff0.js",
+    "runtime-main.js.map": "/React-Todo-App/static/js/runtime-main.f976cff0.js.map",
     "static/js/2.47aac452.chunk.js": "/React-Todo-App/static/js/2.47aac452.chunk.js",
     "static/js/2.47aac452.chunk.js.map": "/React-Todo-App/static/js/2.47aac452.chunk.js.map",
     "static/js/3.cd5b9314.chunk.js": "/React-Todo-App/static/js/3.cd5b9314.chunk.js",
     "static/js/3.cd5b9314.chunk.js.map": "/React-Todo-App/static/js/3.cd5b9314.chunk.js.map",
-    "static/js/4.b6eda601.chunk.js": "/React-Todo-App/static/js/4.b6eda601.chunk.js",
-    "static/js/4.b6eda601.chunk.js.map": "/React-Todo-App/static/js/4.b6eda601.chunk.js.map",
+    "static/js/4.234f860f.chunk.js": "/React-Todo-App/static/js/4.234f860f.chunk.js",
+    "static/js/4.234f860f.chunk.js.map": "/React-Todo-App/static/js/4.234f860f.chunk.js.map",
     "index.html": "/React-Todo-App/index.html",
     "static/css/main.40e941ba.chunk.css.map": "/React-Todo-App/static/css/main.40e941ba.chunk.css.map",
     "static/js/2.47aac452.chunk.js.LICENSE.txt": "/React-Todo-App/static/js/2.47aac452.chunk.js.LICENSE.txt",
@@ -18,7 +18,7 @@
     "static/media/style.css": "/React-Todo-App/static/media/b.08ef598b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cec07b9.js",
+    "static/js/runtime-main.f976cff0.js",
     "static/js/3.cd5b9314.chunk.js",
     "static/css/main.40e941ba.chunk.css",
     "static/js/main.9ca306d9.chunk.js"
